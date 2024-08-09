@@ -6,7 +6,7 @@ const commands = [
   "/yardım",
   "/afk",
   "/avatar",
-  "/ayarlar",
+  "/uyarı",
   "/ban",
   "/ban-list",
   "/banner",
