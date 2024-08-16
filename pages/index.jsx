@@ -17,7 +17,7 @@ export default function Index() {
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-            <Link href={"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=bot+su+anda+bakımda+oldugu+ıcın+davet+edılemez"}>
+            <Link href={"https://discord.com/oauth2/authorize?client_id=1252146752186749021&permissions=8&integration_type=0&scope=bot+applications.commands"}>
               <a
                 className={
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
