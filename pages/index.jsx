@@ -92,7 +92,12 @@ Vote MuffinLatte</a>
                 </div>
                 <img src="https://media.discordapp.net/attachments/1005003050928312380/1267750856997208155/image.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
-      
+
+		<a href="https://top.gg/bot/1252146752186749021">
+  		 <img src="https://top.gg/api/widget/1252146752186749021.svg">
+		</a>
+	
+	      
         </div>
 
       </>
