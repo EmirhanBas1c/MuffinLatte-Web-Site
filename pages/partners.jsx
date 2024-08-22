@@ -16,14 +16,14 @@ export default function Partners() {
             <div className="lg:max-w-screen-lg mt-10 mx-auto grid grid-cols-1 md:grid-cols-2 gap-4">
 
             <div className="flex flex-col justify-center text-white rounded">
-            <a href="https://muffinlatte.vercel.app/partners">
+            <a href="https://biyogra.fi/Muffinsgram">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/1005003050928312380/1267750856997208155/image.png" />
+                            <img className="rounded-full h-32 w-32" src="https://imgur.com/a/jkdnBOo" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">...</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Muffinsgram</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                       Partner Bulunmamakta.
+                                       Kişisel hesaplarımı görebileceğiniz biyografi sitesi.
                                     </p>
                                 </div>     
                             </div>
