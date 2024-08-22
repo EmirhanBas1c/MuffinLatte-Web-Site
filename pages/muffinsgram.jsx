@@ -32,22 +32,6 @@ export default function Muffinsgram() {
                     </div>
 
 
-                            <div className="flex flex-col justify-center text-white rounded">
-            <a href="https://muffinlatte.vercel.app/partners">
-                        <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/1005003050928312380/1267750856997208155/image.png" />
-                            <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">...</h1>        
-                                <div className="flex items-center mt-1">
-                                    <p className="font-normal font-sm">
-                                   Partner Bulunmamakta.
-                                    </p>
-                                </div>     
-                            </div>
-                        </div>
-                    </a>
-                    </div>
-
                 </div>
                 <div className="py-10"></div>
         </>
