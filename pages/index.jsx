@@ -90,7 +90,7 @@ Vote MuffinLatte</a>
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with MuffinLatte, the best and most up-to-date bot?</p>
                 </div>
-                <img src="https://media.discordapp.net/attachments/1005003050928312380/1267750856997208155/image.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://imgur.com/X7Cbv8A" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
 
 	      
